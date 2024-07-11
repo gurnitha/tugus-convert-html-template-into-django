@@ -15,3 +15,14 @@
         new file:   convert_html/convert_html/urls.py
         new file:   convert_html/convert_html/wsgi.py
         new file:   convert_html/manage.py
+
+
+#### 3. Merubah nama folder proyek bagian dalam dengan nama src
+
+        modified:   README.md
+        renamed:    convert_html/convert_html/__init__.py -> src/convert_html/__init__.py
+        renamed:    convert_html/convert_html/asgi.py -> src/convert_html/asgi.py
+        renamed:    convert_html/convert_html/settings.py -> src/convert_html/settings.py
+        renamed:    convert_html/convert_html/urls.py -> src/convert_html/urls.py
+        renamed:    convert_html/convert_html/wsgi.py -> src/convert_html/wsgi.py
+        renamed:    convert_html/manage.py -> src/manage.py
