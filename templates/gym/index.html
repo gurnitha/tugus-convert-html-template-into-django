@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html>
 
@@ -15,17 +16,17 @@
   <title>Tugus Website | Home</title>
 
   <!-- slider stylesheet -->
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css' %}" />
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.css' %}" />
 
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
   <!-- Custom styles for this template -->
-  <link href="css/style.css" rel="stylesheet" />
+  <link href="{% static 'css/style.css' %}" rel="stylesheet" />
   <!-- responsive style -->
-  <link href="css/responsive.css" rel="stylesheet" />
+  <link href="{% static 'css/responsive.css' %}" rel="stylesheet" />
 </head>
 
 <body>
@@ -253,7 +254,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-1.png" alt="">
+                <img src="{% static 'images/u-1.png' %}" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -268,7 +269,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-4.png" alt="">
+                <img src="{% static 'images/u-4.png' %}" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -283,7 +284,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-2.png" alt="">
+                <img src="{% static 'images/u-2.png' %}" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -298,7 +299,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="box">
               <div class="img-box">
-                <img src="images/u-3.png" alt="">
+                <img src="{% static 'images/u-3.png' %}" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -364,17 +365,17 @@
               </h5>
             </div>
             <div class="img-box">
-              <img src="images/t1.jpg" alt="">
+              <img src="{% static 'images/t1.jpg' %}" alt="">
             </div>
             <div class="social_box">
               <a href="">
-                <img src="images/facebook-logo.png" alt="">
+                <img src="{% static 'images/facebook-logo.png' %}" alt="">
               </a>
               <a href="">
-                <img src="images/twitter.png" alt="">
+                <img src="{% static 'images/twitter.png' %}" alt="">
               </a>
               <a href="">
-                <img src="images/instagram-logo.png" alt="">
+                <img src="{% static 'images/instagram-logo.png' %}" alt="">
               </a>
             </div>
           </div>
@@ -387,17 +388,17 @@
               </h5>
             </div>
             <div class="img-box">
-              <img src="images/t2.jpg" alt="">
+              <img src="{% static 'images/t2.jpg' %}" alt="">
             </div>
             <div class="social_box">
               <a href="">
-                <img src="images/facebook-logo.png" alt="">
+                <img src="{% static 'images/facebook-logo.png' %}" alt="">
               </a>
               <a href="">
-                <img src="images/twitter.png" alt="">
+                <img src="{% static 'images/twitter.png' %}" alt="">
               </a>
               <a href="">
-                <img src="images/instagram-logo.png" alt="">
+                <img src="{% static 'images/instagram-logo.png' %}" alt="">
               </a>
             </div>
           </div>
@@ -410,17 +411,17 @@
               </h5>
             </div>
             <div class="img-box">
-              <img src="images/t3.jpg" alt="">
+              <img src="{% static 'images/t3.jpg' %}" alt="">
             </div>
             <div class="social_box">
               <a href="">
-                <img src="images/facebook-logo.png" alt="">
+                <img src="{% static 'images/facebook-logo.png' %}" alt="">
               </a>
               <a href="">
-                <img src="images/twitter.png" alt="">
+                <img src="{% static 'images/twitter.png' %}" alt="">
               </a>
               <a href="">
-                <img src="images/instagram-logo.png" alt="">
+                <img src="{% static 'images/instagram-logo.png' %}" alt="">
               </a>
             </div>
           </div>
@@ -438,7 +439,7 @@
       <div class="row">
         <div class="col-md-6 px-0">
           <div class="img-box">
-            <img src="images/contact-img.jpg" alt="">
+            <img src="{% static 'images/contact-img.jpg' %}" alt="">
           </div>
         </div>
         <div class="col-lg-5 col-md-6">
@@ -530,8 +531,8 @@
   </footer>
   <!-- footer section -->
 
-  <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/bootstrap.js"></script>
+  <script src="{% static 'js/jquery-3.4.1.min.js' %}"></script>
+  <script src="{% static 'js/bootstrap.js' %}"></script>
 
 </body>
 

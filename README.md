@@ -88,3 +88,9 @@
 
         modified:   README.md  
         modified:   convert_html/settings.py
+
+
+#### 11. Load static file
+
+        modified:   README.md
+        modified:   templates/gym/index.html
