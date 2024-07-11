@@ -56,3 +56,12 @@
 
         modified:   README.md
         modified:   convert_html/settings.py
+
+
+#### 7. Membuat laman home (urls, views, templates)
+
+        modified:   convert_html/settings.py
+        modified:   convert_html/urls.py
+        new file:   gym/urls.py
+        modified:   gym/views.py
+        new file:   templates/gym/index.html
