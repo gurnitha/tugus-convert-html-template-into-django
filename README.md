@@ -65,3 +65,9 @@
         new file:   gym/urls.py
         modified:   gym/views.py
         new file:   templates/gym/index.html
+
+
+#### 8. Mengisi html template untuk laman home
+
+        modified:   README.md
+        modified:   templates/gym/index.html
