@@ -26,3 +26,14 @@
         renamed:    convert_html/convert_html/urls.py -> src/convert_html/urls.py
         renamed:    convert_html/convert_html/wsgi.py -> src/convert_html/wsgi.py
         renamed:    convert_html/manage.py -> src/manage.py
+
+
+#### 4. Memodifikasi struktur file
+
+        modified:   README.md
+        renamed:    src/convert_html/__init__.py -> convert_html/__init__.py
+        renamed:    src/convert_html/asgi.py -> convert_html/asgi.py
+        renamed:    src/convert_html/settings.py -> convert_html/settings.py
+        renamed:    src/convert_html/urls.py -> convert_html/urls.py
+        renamed:    src/convert_html/wsgi.py -> convert_html/wsgi.py
+        renamed:    src/manage.py -> manage.py
