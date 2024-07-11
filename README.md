@@ -50,3 +50,9 @@
         new file:   gym/models.py
         new file:   gym/tests.py
         new file:   gym/views.py
+
+
+#### 6. Mendaftarkan app  gem  pada proyek
+
+        modified:   README.md
+        modified:   convert_html/settings.py
