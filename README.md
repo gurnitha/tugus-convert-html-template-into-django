@@ -37,3 +37,16 @@
         renamed:    src/convert_html/urls.py -> convert_html/urls.py
         renamed:    src/convert_html/wsgi.py -> convert_html/wsgi.py
         renamed:    src/manage.py -> manage.py
+
+
+#### 5. Membuat aplikasi gym
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   gym/__init__.py
+        new file:   gym/admin.py
+        new file:   gym/apps.py
+        new file:   gym/migrations/__init__.py
+        new file:   gym/models.py
+        new file:   gym/tests.py
+        new file:   gym/views.py
