@@ -82,3 +82,9 @@
         ....
         new file:   static/js/bootstrap.js
         new file:   static/js/jquery-3.4.1.min.js
+
+
+#### 10. Membuat path untuk static file
+
+        modified:   README.md  
+        modified:   convert_html/settings.py
