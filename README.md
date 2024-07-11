@@ -71,3 +71,14 @@
 
         modified:   README.md
         modified:   templates/gym/index.html
+
+
+#### 9. Mengisi static file
+
+        modified:   README.md
+        new file:   static/css/bootstrap.css
+        new file:   static/css/responsive.css
+        new file:   static/css/style.css
+        ....
+        new file:   static/js/bootstrap.js
+        new file:   static/js/jquery-3.4.1.min.js
