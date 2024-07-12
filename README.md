@@ -104,3 +104,9 @@
         modified:   gym/urls.py
         modified:   gym/views.py
         new file:   templates/gym/why.html
+
+
+#### 14. Membuat link untuk laman home dan why
+
+        modified:   README.md
+        modified:   templates/gym/index.html
