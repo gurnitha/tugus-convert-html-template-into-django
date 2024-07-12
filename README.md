@@ -117,3 +117,10 @@
         modified:   README.md
         modified:   templates/gym/index.html
         modified:   templates/gym/why.html
+
+
+#### 16. Membuat laman trainer
+
+        modified:   gym/urls.py
+        modified:   gym/views.py
+        new file:   templates/gym/trainer.html

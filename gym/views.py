@@ -9,3 +9,7 @@ def home_view(request):
 
 def why_view(request):
 	return render(request, "gym/why.html")
+
+
+def why_view(request):
+	return render(request, "gym/trainer.html")
