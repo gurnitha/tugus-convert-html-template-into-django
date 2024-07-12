@@ -11,5 +11,8 @@ def why_view(request):
 	return render(request, "gym/why.html")
 
 
-def why_view(request):
+def trainer_view(request):
 	return render(request, "gym/trainer.html")
+
+def contact_view(request):
+	return render(request, "gym/contact.html")

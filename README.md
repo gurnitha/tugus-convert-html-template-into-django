@@ -132,3 +132,19 @@
         modified:   README.md        
         modified:   templates/gym/index.html
 
+
+#### 18. Mengisi HTML template untuk laman trainers
+
+        modified:   README.md
+        modified:   templates/gym/index.html
+        modified:   templates/gym/trainer.html
+
+
+#### 19. Menghubungkan urls home, why dan trainer dan membuat laman contact
+
+        modified:   gym/urls.py
+        modified:   gym/views.py
+        new file:   templates/gym/contact.html
+        modified:   templates/gym/index.html
+        modified:   templates/gym/trainer.html
+        modified:   templates/gym/why.html
