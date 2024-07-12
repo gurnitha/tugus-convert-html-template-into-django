@@ -158,3 +158,10 @@
         modified:   templates/gym/index.html
         modified:   templates/gym/trainer.html
         modified:   templates/gym/why.html
+
+
+#### 21. Membuat page title untuk laman home
+
+        modified:   README.md
+        modified:   templates/base.html
+        modified:   templates/gym/index.html
