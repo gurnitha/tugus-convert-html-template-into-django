@@ -110,3 +110,10 @@
 
         modified:   README.md
         modified:   templates/gym/index.html
+
+
+#### 15. Mengisi HTML template untuk laman why
+
+        modified:   README.md
+        modified:   templates/gym/index.html
+        modified:   templates/gym/why.html
