@@ -5,3 +5,7 @@ from django.shortcuts import render
 
 def home_view(request):
 	return render(request, "gym/index.html")
+
+
+def why_view(request):
+	return render(request, "gym/why.html")

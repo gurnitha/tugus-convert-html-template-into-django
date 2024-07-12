@@ -94,3 +94,13 @@
 
         modified:   README.md
         modified:   templates/gym/index.html
+
+####  Note: 12. Membuat commit setelah urut 11
+
+
+#### 13. Membuat laman why
+
+        modified:   README.md
+        modified:   gym/urls.py
+        modified:   gym/views.py
+        new file:   templates/gym/why.html
