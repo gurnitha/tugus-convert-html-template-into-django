@@ -148,3 +148,13 @@
         modified:   templates/gym/index.html
         modified:   templates/gym/trainer.html
         modified:   templates/gym/why.html
+
+
+#### 20. Membuat dan menggunakan template inheritance
+
+        modified:   gym/views.py
+        new file:   templates/base.html
+        modified:   templates/gym/contact.html
+        modified:   templates/gym/index.html
+        modified:   templates/gym/trainer.html
+        modified:   templates/gym/why.html
