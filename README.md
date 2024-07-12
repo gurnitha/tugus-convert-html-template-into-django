@@ -121,6 +121,14 @@
 
 #### 16. Membuat laman trainer
 
+        modified:   README.md
         modified:   gym/urls.py
         modified:   gym/views.py
         new file:   templates/gym/trainer.html
+
+
+#### 17. Membuat link untuk laman home dan trainer
+
+        modified:   README.md        
+        modified:   templates/gym/index.html
+
